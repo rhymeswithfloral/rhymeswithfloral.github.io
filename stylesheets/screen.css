@@ -312,7 +312,7 @@ footer a {
 footer span.ribbon-inner p {
   background-color: #34bc87;
   margin: 0;
-  color: #DBC9E0;
+  color: #5EFC8D;
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
   padding-bottom:4px;
 }
@@ -449,7 +449,7 @@ pre {
   margin: 10px 0 20px;
   padding: .7em;
   background: #dcf3eb;
-  border-bottom: 2px solid #cde7e0;
+  border-bottom: 2px solid #67D8E0;
   font: normal normal .9em/1.7 "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   overflow: auto;
 }
