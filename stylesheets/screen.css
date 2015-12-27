@@ -538,7 +538,7 @@ dd p:first-child {
 
 .header-level-2 {
   font-size: 1.58em;
-  color: #34bc87;
+  color: #035F66;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #dcf3eb;
   line-height: 1.2;
@@ -553,7 +553,7 @@ dd p:first-child {
 .header-level-4 {
   margin: .6em 0;
   font-size: 1.2em;
-  color: #354B66;
+  color: #5EFC8D;
 }
 
 .header-level-5 {
