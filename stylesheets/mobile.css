@@ -136,8 +136,8 @@ header {
 header span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #7CA0AF;
-  border: 8px solid #67D8E0;
+  background-color: #67D8E0;
+  border: 8px solid #7CA0AF;
   padding: 6px;
   z-index: 1;
 }
