@@ -101,7 +101,7 @@
 }
 
 .pl-mi1 /* markup.inserted, meta.diff.header.to-file */ {
-  background-color: #eaffea;
+  background-color: #DBC9E0;
   color: #55a532;
 }
 
@@ -113,4 +113,3 @@
 .pl-mo /* meta.output */ {
   color: #1d3e81;
 }
-
