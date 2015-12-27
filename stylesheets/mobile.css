@@ -57,7 +57,7 @@
 }
 
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -71,8 +71,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -83,7 +83,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
@@ -136,7 +136,7 @@ header {
 header span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #cd596b;
+  background-color: #7CA0AF;
   border: 8px solid #7c334f;
   padding: 6px;
   z-index: 1;
@@ -171,7 +171,7 @@ header h1 {
   text-transform: uppercase;
   color: #C6BCD1;
   text-align: center;
-  line-height:1;  
+  line-height:1;
   padding: 14px 20px 0;
 }
 
@@ -234,7 +234,7 @@ footer span.ribbon-outer {
 footer span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #cd596b;
+  background-color: #7CA0AF;
   border: 8px solid #67D8E0;
   padding: 6px;
   z-index: 1;
@@ -248,7 +248,7 @@ footer p {
 }
 
 footer a {
-  color: #cd596b;
+  color: #7CA0AF;
 }
 
 footer span.ribbon-inner p {
@@ -311,7 +311,7 @@ footer span.octocat {
 body {
   background: #C6BCD1;
   font: normal normal 30px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
-  color: #544943;
+  color: #3C3C84;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -417,7 +417,7 @@ th {
   padding: 2px 10px;
   border: solid #C6BCD1;
   border-width: 0 4px 4px 0;
-  color: #cd596b;
+  color: #7CA0AF;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: .85em;
@@ -494,7 +494,7 @@ dd p:first-child {
 .header-level-4 {
   margin: .6em 0;
   font-size: 1.2em;
-  color: #cd596b;
+  color: #7CA0AF;
 }
 
 .header-level-5 {
