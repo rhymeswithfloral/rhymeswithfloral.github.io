@@ -320,7 +320,7 @@ footer span.ribbon-inner p {
 footer span.ribbon-inner a {
   position: relative;
   bottom: -1px;
-  color: #035F66;
+  color: #3C3C84;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   text-transform: uppercase;
   font-style: normal;
@@ -371,7 +371,7 @@ body {
 }
 
 a, a:hover {
-  color: #035F66;
+  color: #3C3C84;
 }
 
 a {
