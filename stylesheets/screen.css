@@ -427,7 +427,7 @@ img {
   -webkit-box-shadow: 0px 2px 0px #bdb6ad;
   -moz-box-shadow: 0px 2px 0px #bdb6ad;
   box-shadow: 0px 2px 0px #bdb6ad;
-  border: 2px solid #fff6e9;
+  border: 2px solid #e5ede3;
   max-width: 502px;
 }
 
@@ -440,7 +440,7 @@ hr {
 }
 
 code {
-  background: #fff6e9;
+  background: #e5ede3;
   font: normal normal .8em/1.7 "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   padding: 0 5px 1px;
 }
@@ -448,7 +448,7 @@ code {
 pre {
   margin: 10px 0 20px;
   padding: .7em;
-  background: #fff6e9;
+  background: #e5ede3;
   border-bottom: 2px solid #bdb6ad;
   font: normal normal .9em/1.7 "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   overflow: auto;
