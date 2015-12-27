@@ -180,7 +180,7 @@ header h1 {
   font-weight: 800;
   font-style: normal;
   text-transform: uppercase;
-  color: #ece4d8;
+  color: #e5ede3;
   text-align: center;
   line-height:1;
   padding: 14px 20px 0;
@@ -236,7 +236,7 @@ section#downloads a:hover {
 
 section#downloads a em {
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
-  color: #83b7da;
+  color: #3C3C84;
   display: block;
 }
 
@@ -286,7 +286,7 @@ footer {
 footer span.ribbon-outer {
   display: block;
   position: relative;
-  border-bottom: 2px solid #bdb6ad;
+  border-bottom: 2px solid #cde7e0;
 }
 
 footer span.ribbon-inner {
@@ -320,7 +320,7 @@ footer span.ribbon-inner p {
 footer span.ribbon-inner a {
   position: relative;
   bottom: -1px;
-  color: #7eb0d2;
+  color: #035F66;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   text-transform: uppercase;
   font-style: normal;
@@ -371,7 +371,7 @@ body {
 }
 
 a, a:hover {
-  color: #417090;
+  color: #035F66;
 }
 
 a {
@@ -424,9 +424,9 @@ blockquote {
 }
 
 img {
-  -webkit-box-shadow: 0px 2px 0px #bdb6ad;
-  -moz-box-shadow: 0px 2px 0px #bdb6ad;
-  box-shadow: 0px 2px 0px #bdb6ad;
+  -webkit-box-shadow: 0px 2px 0px #cde7e0;
+  -moz-box-shadow: 0px 2px 0px #cde7e0;
+  box-shadow: 0px 2px 0px #cde7e0;
   border: 2px solid #e5ede3;
   max-width: 502px;
 }
@@ -449,7 +449,7 @@ pre {
   margin: 10px 0 20px;
   padding: .7em;
   background: #e5ede3;
-  border-bottom: 2px solid #bdb6ad;
+  border-bottom: 2px solid #cde7e0;
   font: normal normal .9em/1.7 "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   overflow: auto;
 }
@@ -463,7 +463,7 @@ table {
   display: table;
   width: 100%;
   border-collapse: separate;
-  border-bottom: 2px solid #bdb6ad;
+  border-bottom: 2px solid #cde7e0;
   margin: 10px 0;
 }
 
