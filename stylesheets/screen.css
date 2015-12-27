@@ -372,10 +372,12 @@ body {
 
 a, a:hover {
   color: #3C3C84;
+
 }
 
 a {
-  text-decoration: bold;
+  text-decoration: none;
+  font-style: bold;
 }
 
 a:hover {
