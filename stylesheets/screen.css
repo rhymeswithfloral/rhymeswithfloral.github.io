@@ -188,11 +188,7 @@ header h1 {
 
 header h2 {
   background-color: #34bc87;
-  font-family: Calibri;
-	font-size: 18px;
-	font-style: italic;
-	font-variant: normal;
-	font-weight: bold;
+  font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #3C3C84;
   padding-bottom: 14px;
   margin-top: -3px;
