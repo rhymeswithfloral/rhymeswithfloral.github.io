@@ -364,7 +364,7 @@ footer span.octocat {
 /* content */
 
 body {
-  background: #ece4d8;
+  background: #e5ede3;
   font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
   color: #3C3C84;
   -webkit-font-smoothing: antialiased;
@@ -559,7 +559,7 @@ dd p:first-child {
 .header-level-5 {
   margin: .7em 0;
   font-size: 1em;
-  color: #cde7e0;
+  color: #3C3C84;
 }
 
 .header-level-6 {
