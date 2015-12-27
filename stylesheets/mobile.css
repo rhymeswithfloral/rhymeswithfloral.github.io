@@ -136,7 +136,7 @@ header {
 header span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #7CA0AF;
+  background-color: #354B66;
   border: 8px solid #7c334f;
   padding: 6px;
   z-index: 1;
@@ -234,7 +234,7 @@ footer span.ribbon-outer {
 footer span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #7CA0AF;
+  background-color: #354B66;
   border: 8px solid #67D8E0;
   padding: 6px;
   z-index: 1;
@@ -248,7 +248,7 @@ footer p {
 }
 
 footer a {
-  color: #7CA0AF;
+  color: #354B66;
 }
 
 footer span.ribbon-inner p {
@@ -417,7 +417,7 @@ th {
   padding: 2px 10px;
   border: solid #C6BCD1;
   border-width: 0 4px 4px 0;
-  color: #7CA0AF;
+  color: #354B66;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: .85em;
@@ -494,7 +494,7 @@ dd p:first-child {
 .header-level-4 {
   margin: .6em 0;
   font-size: 1.2em;
-  color: #7CA0AF;
+  color: #354B66;
 }
 
 .header-level-5 {
