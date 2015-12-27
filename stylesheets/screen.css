@@ -286,14 +286,14 @@ footer {
 footer span.ribbon-outer {
   display: block;
   position: relative;
-  border-bottom: 2px solid #bdb6ad;
+  border-bottom: 2px solid #cde7e0;
 }
 
 footer span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #cd596b;
-  border: 2px solid #7c334f;
+  background-color: #354B66;
+  border: 2px solid #34bc87;
   padding: 1px;
   z-index: 1;
 }
@@ -302,17 +302,17 @@ footer p {
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   font-weight: bold;
   font-size: .8em;
-  color: #8b786f;
+  color: #cde7e0;
 }
 
 footer a {
-  color: #cd596b;
+  color: #354B66;
 }
 
 footer span.ribbon-inner p {
-  background-color: #7c334f;
+  background-color: #34bc87;
   margin: 0;
-  color: #e69b95;
+  color: #5EFC8D;
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
   padding-bottom:4px;
 }
@@ -320,7 +320,7 @@ footer span.ribbon-inner p {
 footer span.ribbon-inner a {
   position: relative;
   bottom: -1px;
-  color: #7eb0d2;
+  color: #3C3C84;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   text-transform: uppercase;
   font-style: normal;
@@ -360,6 +360,7 @@ footer span.octocat {
   height: 30px;
   margin: 0 auto;
 }
+
 /* content */
 
 body {
