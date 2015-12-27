@@ -375,7 +375,7 @@ a, a:hover {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: bold;
 }
 
 a:hover {
