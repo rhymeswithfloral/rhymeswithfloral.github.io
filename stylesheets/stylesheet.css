@@ -439,6 +439,14 @@ body {
 p {
   margin-top: 0;
 }
+p.update {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 12px;
+  font-weight:700;
+  line-height: 1;
+  color: #28C4D2;
+  padding-left: 10px;
+}
 
 a {
   color: #28C4D2;
