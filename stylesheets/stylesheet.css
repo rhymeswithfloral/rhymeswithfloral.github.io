@@ -447,6 +447,9 @@ p.update {
   color: #28C4D2;
   padding-left: 10px;
 }
+p.work {
+  padding-left: 10px;
+}
 
 a {
   color: #28C4D2;
