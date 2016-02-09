@@ -485,8 +485,8 @@ header h2 {
   margin-bottom: 0;
   font-size: 26px;
   font-weight: normal;
-  line-height: 1.2;
-  color: #3D968A;
+  line-height: 1.4;
+  color: ##276058;
   letter-spacing: 0;
 }
 
@@ -538,7 +538,7 @@ a.button {
   font-size: 24px;
   font-weight: bolder;
   line-height: 1.2;
-  color: #21AD9A;
+  color: #ffffff;
 }
 a.button small {
   display: block;
