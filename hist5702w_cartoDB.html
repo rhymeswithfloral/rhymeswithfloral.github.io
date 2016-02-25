@@ -1,5 +1,7 @@
 <html>
 <head>
+     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
 </head>
 <body>
@@ -15,7 +17,8 @@
             description: true,
             search: true,
             tiles_loader: true,
-            center: [51.9465803, 1.0200997]
+            center_lat: 51.9465803, 
+            center_lon: 1.0200997,
             zoom: 10
             })
         .done(function(vis, layers) {
