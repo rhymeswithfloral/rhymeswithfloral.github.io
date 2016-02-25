@@ -38,10 +38,6 @@
             minZoom: 1,
             maxZoom: 4
           });
-            sql.getBounds('select * from bounds_test').done(function(bounds) {
-        map.fitBounds(bounds);
-        });
-           map.dragging.disable();
         })
         .error(function(err) {
           console.log(err);
