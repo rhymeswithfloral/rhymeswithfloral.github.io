@@ -28,16 +28,9 @@
           });
           // you can get the native map to work with it
           var map = vis.getNativeMap();
-         
           // now, perform any operations you need
           // map.setZoom(3);
           // map.panTo([50.5, 30.5]);
-          
-          // Set max zoom
-          vis.map.set({
-            minZoom: 1,
-            maxZoom: 4
-          });
         })
         .error(function(err) {
           console.log(err);
@@ -45,15 +38,5 @@
       }
       window.onload = main;
     </script>
-
-
-
-
-
-
-
-
-
-
-</body>
+  </body>
 </html>
