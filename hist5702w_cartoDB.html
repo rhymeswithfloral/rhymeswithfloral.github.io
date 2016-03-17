@@ -11,8 +11,8 @@
 <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
     <script>
       function main() {
-        cartodb.createVis('map', 'https://lrowe.cartodb.com/api/v2/viz/222a36fe-dbe3-11e5-b2a6-0ecd1babdde5/viz.json', {
-            shareable: true,
+        cartodb.createVis('map', 'https://lrowe.cartodb.com/api/v2/viz/288b4fd8-ebd8-11e5-a983-0e3ff518bd15/viz.json', {
+            shareable: false,
             title: true,
             description: true,
             search: true,
@@ -21,13 +21,19 @@
             center_lon: 1.0200997,
             zoom: 10
             })
-        .done(function(vis, layers) {
+        
+.done(function(vis, layers) {
+		layers[0].setMaxBounds([
+          [52.768008, -0.396424], // lat long top left
+          [51.3770519, 1.3655667]  // lat long bottom right 
+          	])
+      	});
           // layer 0 is the base layer, layer 1 is cartodb layer
           // setInteraction is disabled by default
           layers[1].setInteraction(true);
           layers[1].on('featureOver', function(e, latlng, pos, data) {
             cartodb.log.log(e, latlng, pos, data);
-          });
+        });
           // you can get the native map to work with it
           var map = vis.getNativeMap();
           // now, perform any operations you need
